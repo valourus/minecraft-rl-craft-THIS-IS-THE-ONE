@@ -1,0 +1,2 @@
+ClayWaterMound1,-5015,-5004,3073,3083
+SmallClockworkSite,-5071,-5052,3171,3193

@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,-720,-720,8,8
+RLCraft_UndergroundRuin2,-725,-715,6,13
+P_CultIsland,-795,-625,162,372
+ShrineSmallFire,-892,-882,-37,-27

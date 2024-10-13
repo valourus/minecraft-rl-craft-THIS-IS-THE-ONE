@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,-673,-673,2286,2286
+RLCraft_UndergroundRuin2,-678,-671,2281,2291
+StonePlantBoulder,-543,-533,2302,2312
+P_LargeShip,-598,-580,2441,2501

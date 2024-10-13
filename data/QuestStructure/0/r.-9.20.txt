@@ -1,0 +1,4 @@
+RLCraft_BasicWitch,-5095,-5095,10307,10307
+RLCraft_UndergroundRuin1,-5098,-5089,10301,10310
+RLCraft_BasicZombie,-5012,-5012,10298,10298
+RLCraft_UndergroundRuin1,-5015,-5006,10292,10301

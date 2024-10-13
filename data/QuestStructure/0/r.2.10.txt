@@ -1,0 +1,7 @@
+StoneLeafMound,1495,1502,5167,5176
+DinosaurSkeleton,1489,1535,5171,5180
+RLCraft_SmallUndergroundSkeleton,1523,1531,5157,5165
+SmallAbandonedMine,1508,1533,5203,5218
+RLCraft_DecentSkeleton,1292,1292,5382,5382
+RLCraft_UndergroundRuin2,1287,1294,5377,5387
+RLCraft_AgentStarbuck_WaterBase,1391,1408,5401,5413

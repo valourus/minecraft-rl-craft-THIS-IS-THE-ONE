@@ -1,0 +1,17 @@
+JokerTower,8346,8354,916,924
+StoneIceBoulder3,8431,8441,853,863
+StoneIceBoulder,8336,8346,844,853
+StoneIceBoulder2,8449,8458,832,841
+RLCraft_LargeUndergroundTown,8426,8563,794,907
+StoneIceBoulder3,8601,8611,842,852
+RLCraft_DecentCaveSpider,8470,8470,763,763
+RLCraft_UndergroundRuin2,8465,8475,761,768
+PeacefulCrypt,8559,8575,757,781
+RLCraft_DecentWitch,8638,8638,747,747
+RLCraft_UndergroundRuin2,8633,8643,742,749
+SmallWoodenCottage,8432,8443,730,738
+StoneIceBoulder1,8392,8402,743,753
+RLCraft_SmallUndergroundSkeleton,8604,8612,633,641
+StoneIceBoulder1,8536,8546,613,623
+RLCraft_BasicWitch,8345,8345,769,769
+RLCraft_UndergroundRuin1,8339,8348,763,772

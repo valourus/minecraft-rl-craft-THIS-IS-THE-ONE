@@ -1,0 +1,7 @@
+StoneBoulder,7683,7692,-8477,-8468
+RLCraft_BasicSkeleton,7688,7688,-8562,-8562
+RLCraft_UndergroundRuin1,7682,7691,-8565,-8556
+StonePlantBoulder,7715,7725,-8530,-8520
+ClayWaterMound1,7803,7813,-8456,-8445
+HobbitHole,7744,7816,-8487,-8390
+UndergroundCultChamber,7724,7756,-8697,-8655

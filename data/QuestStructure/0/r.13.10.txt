@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,6835,6843,5133,5141
+Tree_Oak_TheMushroomOak_v3,6883,6933,5106,5165
+MeteorSite,6777,6807,5120,5135
+StonePlantMound,6936,6941,5158,5163
+StonePlantMound4,6857,6864,5255,5262
+RLCraft_DecentWitch,6778,6778,5282,5282
+RLCraft_UndergroundRuin3,6773,6781,5280,5288

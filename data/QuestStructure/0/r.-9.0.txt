@@ -1,0 +1,3 @@
+MysticalTree2,-4872,-4862,-514,-504
+ShrineSmallFire,-4861,-4851,-499,-489
+UnnaturalCrater,-5054,-5014,-524,-484

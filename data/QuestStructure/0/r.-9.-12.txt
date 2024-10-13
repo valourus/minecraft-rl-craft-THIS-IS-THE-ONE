@@ -1,0 +1,4 @@
+StonePlantMound,-4622,-4617,-6489,-6484
+ShrineSmallEarth,-4636,-4624,-6516,-6504
+StonePlantMound1,-4646,-4640,-6304,-6298
+StoneIceBoulder2,-4654,-4645,-6639,-6630

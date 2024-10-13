@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,-427,-427,2252,2252
+RLCraft_UndergroundRuin1,-430,-421,2246,2255
+ShrineSmallAir,-382,-374,2058,2066
+RLCraft_DecentSkeleton,-454,-454,2408,2408
+RLCraft_UndergroundRuin2,-459,-449,2403,2410

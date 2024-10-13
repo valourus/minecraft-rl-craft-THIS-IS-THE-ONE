@@ -1,0 +1,12 @@
+StonePlantMound4,-8006,-7999,-3486,-3479
+StonePlantMound3,-8012,-8003,-3483,-3472
+StonePlantMound3,-8018,-8009,-3499,-3488
+RLCraft_Vineyard,-8019,-7999,-3439,-3411
+P_CathedralOfMadness,-8076,-7920,-3500,-3412
+StonePlantMound2,-7972,-7959,-3416,-3404
+ThreeTowers,-8040,-8008,-3402,-3371
+VillageTriplets,-8071,-8057,-3402,-3388
+StoneLeafMound,-7926,-7917,-3375,-3368
+P_WitchDungeon,-7893,-7859,-3365,-3348
+StonePlantMound,-8046,-8041,-3358,-3353
+DinosaurSkull,-8146,-8127,-3498,-3487

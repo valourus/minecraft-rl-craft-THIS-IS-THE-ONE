@@ -1,0 +1,2 @@
+ShrineSmallWater,4720,4728,-7256,-7248
+RLCraft_SmallUndergroundSkeleton,4648,4656,-7426,-7418

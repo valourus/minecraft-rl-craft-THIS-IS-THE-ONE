@@ -1,0 +1,5 @@
+SmallOutpost,-4165,-4143,-3059,-3029
+StonePlantMound1,-4156,-4150,-2994,-2988
+ShrineSmallFire,-4187,-4177,-2967,-2957
+RLCraft_BasicSkeleton,-4406,-4406,-2999,-2999
+RLCraft_UndergroundRuin1,-4412,-4403,-3002,-2993

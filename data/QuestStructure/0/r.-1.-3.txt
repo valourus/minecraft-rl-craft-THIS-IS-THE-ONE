@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-984,-976,-1620,-1612
+UndergroundTreeoid,-996,-970,-1661,-1638
+IceThorn4,-570,-554,-1750,-1724
+RLCraft_DecentZombie,-805,-805,-1594,-1594
+RLCraft_UndergroundRuin2,-807,-800,-1599,-1589
+IceThorn,-796,-781,-1722,-1696
+IceThorn3,-770,-756,-1551,-1537
+DinosaurSkeleton,-871,-862,-1842,-1796

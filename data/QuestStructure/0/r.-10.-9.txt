@@ -1,0 +1,9 @@
+P_VillageHouse,-5133,-5122,-4874,-4865
+RLCraft_BasicSpider,-5157,-5157,-4932,-4932
+RLCraft_UndergroundRuin1,-5163,-5154,-4938,-4929
+RLCraft_SmallUndergroundSkeleton,-5141,-5133,-4812,-4804
+StonePlantMound3,-5174,-5163,-4774,-4765
+RLCraft_SmallUndergroundSkeleton,-5186,-5178,-4755,-4747
+RLCraft_BasicZombie,-5174,-5174,-4743,-4743
+RLCraft_UndergroundRuin1,-5177,-5168,-4749,-4740
+RLCraft_SmallUndergroundSkeleton,-5134,-5126,-5118,-5110

@@ -1,0 +1,2 @@
+DinosaurSkull,6613,6624,5100,5119
+StonePlantMound4,6595,6602,5108,5115

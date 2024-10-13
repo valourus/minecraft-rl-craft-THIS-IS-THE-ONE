@@ -1,0 +1,5 @@
+RLCraft_DecentSpider,7785,7785,-7673,-7673
+RLCraft_UndergroundRuin2,7780,7790,-7675,-7668
+RLCraft_DecentSpider,8056,8056,-7635,-7635
+RLCraft_UndergroundRuin3,8050,8058,-7640,-7632
+ShrineSmallFire,7700,7710,-7532,-7522

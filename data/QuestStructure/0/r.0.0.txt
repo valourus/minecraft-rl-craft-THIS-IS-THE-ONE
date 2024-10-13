@@ -1,0 +1,9 @@
+RLCraft_DecentWitch,-318,-318,228,228
+RLCraft_UndergroundRuin2,-320,-313,223,233
+StoneLeafMound,-267,-260,221,230
+ShrineSmallFire,-264,-254,415,425
+ShrineSmallWater,-201,-193,339,347
+RLCraft_UndergroundFarm,-203,-160,400,442
+P_LargeShip,-175,-157,98,158
+RLCraft_DecentSkeleton,107,107,194,194
+RLCraft_UndergroundRuin2,102,112,192,199

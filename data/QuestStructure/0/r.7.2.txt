@@ -1,0 +1,7 @@
+RLCraft_RuinsParkour,3946,4038,1054,1154
+RLCraft_xKOSMOS42,4071,4097,1054,1083
+ShrineSmallFire,3846,3856,1276,1286
+DinosaurSkull,3811,3822,1242,1261
+StoneBoulder,3786,3795,1290,1299
+RLCraft_SmallUndergroundSkeleton,3719,3727,1158,1166
+DinosaurSkeleton,3702,3748,1082,1091

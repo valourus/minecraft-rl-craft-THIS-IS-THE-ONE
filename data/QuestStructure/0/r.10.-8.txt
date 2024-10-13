@@ -1,0 +1,7 @@
+RLCraft_DecentSkeleton,5368,5368,-4560,-4560
+RLCraft_UndergroundRuin3,5362,5370,-4563,-4555
+MeteorSite,5499,5514,-4564,-4534
+SmallClockworkSite,5345,5364,-4538,-4516
+MeteorSite,5268,5283,-4566,-4536
+ShrineSmallFire,5163,5173,-4590,-4580
+RLCraft_PlainsCamp,5161,5200,-4612,-4566

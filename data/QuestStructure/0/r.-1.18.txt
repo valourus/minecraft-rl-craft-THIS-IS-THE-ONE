@@ -1,0 +1,8 @@
+DinosaurSkeleton,-1016,-1007,9361,9407
+JokerTower,-1016,-1008,9510,9518
+StonePlantMound3,-992,-981,9561,9570
+StonePlantMound3,-966,-957,9577,9588
+StonePlantMound2,-936,-924,9326,9339
+UndergroundCrypt,-910,-882,9602,9616
+RLCraft_DecentZombie,-871,-871,9352,9352
+RLCraft_UndergroundRuin2,-876,-866,9347,9354

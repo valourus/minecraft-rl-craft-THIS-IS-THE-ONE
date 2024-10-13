@@ -1,0 +1,11 @@
+MesoMazeStairCorridor,-1537,-1535,362,367
+MesoMazePath,-1537,-1535,353,355
+MesoMazePath,-1537,-1535,374,376
+MesoMazePath,-1537,-1535,374,376
+MesoMazePath,-1537,-1535,353,355
+MesoMazePath,-1537,-1535,371,373
+MesoMazePath,-1537,-1535,377,379
+MesoMazePath,-1537,-1535,395,397
+MesoMazePath,-1537,-1535,398,400
+MesoMazePath,-1537,-1535,368,370
+MesoMazePath,-1537,-1535,392,394

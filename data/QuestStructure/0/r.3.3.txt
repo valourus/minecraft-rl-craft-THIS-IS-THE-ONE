@@ -1,0 +1,8 @@
+RLCraft_BasicCaveSpider,1683,1683,1973,1973
+RLCraft_UndergroundRuin1,1677,1686,1970,1979
+RLCraft_BasicWitch,1669,1669,1536,1536
+RLCraft_UndergroundRuin1,1663,1672,1533,1542
+StoneIceBoulder2,1785,1794,1683,1692
+RLCraft_BasicWitch,1861,1861,1864,1864
+RLCraft_UndergroundRuin1,1855,1864,1858,1867
+StoneIceBoulder3,1844,1854,1595,1605

@@ -1,0 +1,3 @@
+MysticalTree2,-5416,-5406,9717,9727
+StonePlantMound4,-5425,-5418,9692,9699
+BrickHenge,-5432,-5416,9690,9706

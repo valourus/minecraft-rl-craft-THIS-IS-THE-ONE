@@ -1,0 +1,14 @@
+StonePlantMound,4301,4306,306,311
+RLCraft_4Towers,4277,4337,287,339
+ClayWaterMound1,4363,4374,251,261
+StoneBoulder,4294,4303,358,367
+RLCraft_SmallUndergroundSkeleton,4334,4342,384,392
+ShrineSmallAir,4410,4418,346,354
+UndergroundTreeoid,4245,4268,269,295
+RLCraft_BasicCaveSpider,4323,4323,438,438
+RLCraft_UndergroundRuin1,4320,4329,435,444
+ShrineSmallWater,4446,4454,453,461
+StonePlantMound,4500,4505,233,238
+SmallWoodenCottage2,4243,4251,132,140
+P_RuinedHouse,4563,4588,-357,-340
+StonePlantMound,4565,4570,-237,-232

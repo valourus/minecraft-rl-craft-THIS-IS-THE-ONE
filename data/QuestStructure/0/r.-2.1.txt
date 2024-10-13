@@ -1,0 +1,9 @@
+StonePlantBoulder,-1357,-1347,534,544
+StonePlantMound4,-1262,-1255,530,537
+StoneLeafMound,-1284,-1277,555,564
+StonePlantMound2,-1287,-1275,567,580
+P_TreeDungeon,-1482,-1440,556,601
+StoneBoulder,-1246,-1237,565,574
+StonePlantMound1,-1300,-1294,610,616
+StoneBoulder,-1295,-1286,639,648
+Tree_Oak_TheMushroomOak_v3,-1346,-1287,589,639

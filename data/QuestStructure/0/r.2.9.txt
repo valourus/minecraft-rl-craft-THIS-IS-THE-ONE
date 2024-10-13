@@ -1,0 +1,3 @@
+StonePlantMound2,1315,1328,5096,5108
+StoneLeafMound,1373,1382,5085,5092
+ClayWaterMound1,1364,1374,5070,5081

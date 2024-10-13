@@ -1,0 +1,15 @@
+P_SpookyHouse,-4912,-4886,-752,-712
+StonePlantMound1,-4963,-4957,-640,-634
+StoneBoulder,-4963,-4954,-705,-696
+RLCraft_DecentCaveSpider,-4993,-4993,-666,-666
+RLCraft_UndergroundRuin3,-4996,-4988,-668,-660
+DinosaurSkeleton,-4810,-4801,-646,-600
+StoneBoulder,-4819,-4810,-767,-758
+StonePlantMound1,-4840,-4834,-787,-781
+StoneLeafMound,-5014,-5005,-578,-571
+StonePlantMound3,-4882,-4873,-520,-509
+StonePlantMound4,-5005,-4998,-535,-528
+MysticalTree2,-4750,-4740,-570,-560
+StonePlantMound,-4768,-4763,-767,-762
+RLCraft_SmallUndergroundSkeleton,-4741,-4733,-759,-751
+StonePlantMound3,-4740,-4731,-539,-528

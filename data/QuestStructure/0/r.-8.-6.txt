@@ -1,0 +1,8 @@
+StonePlantMound1,-4132,-4126,-3164,-3158
+P_SpookyHouse,-4303,-4263,-3165,-3139
+ShrineSmallFire,-4280,-4270,-3194,-3184
+RLCraft_DecentCaveSpider,-4344,-4344,-3185,-3185
+RLCraft_UndergroundRuin3,-4346,-4338,-3188,-3180
+StoneBoulder,-4364,-4355,-3259,-3250
+StonePlantMound4,-4163,-4156,-3257,-3250
+StonePlantMound4,-4392,-4385,-3216,-3209

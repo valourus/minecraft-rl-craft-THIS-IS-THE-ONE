@@ -1,0 +1,11 @@
+StonePlantMound,-1230,-1225,9289,9294
+SmallAbandonedMine,-1170,-1155,9443,9468
+StoneLeafMound,-1325,-1316,9331,9338
+StoneLeafMound,-1340,-1331,9300,9307
+RLCraft_UndergroundFarm,-1322,-1279,9204,9246
+ShrineSmallFire,-1135,-1125,9227,9237
+SmallWoodenCottage2,-1028,-1020,9545,9553
+PeacefulCrypt,-1125,-1101,9549,9565
+StoneBoulder,-1066,-1057,9616,9625
+StoneLeafMound,-1105,-1096,9614,9621
+DinosaurSkeleton,-1205,-1196,9596,9642
