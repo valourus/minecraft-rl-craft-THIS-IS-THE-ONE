@@ -151,3 +151,5 @@ VillageForgeLarge,8913,8929,1837,1849
 VillageTriplets,8985,8999,1755,1769
 StonePlantMound3,8948,8959,1626,1635
 UndergroundTreeoid,8742,8768,1548,1571
+ShrineSmallFire,8729,8739,1608,1618
+ThreeTowers,8985,9016,1803,1835
