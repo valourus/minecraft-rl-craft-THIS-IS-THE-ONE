@@ -1,0 +1,3 @@
+StoneLeafMound,9086,9095,2168,2175
+BlazeSpawnerCrystal,9098,9104,2222,2228
+StonePlantMound2,9175,9187,2094,2107

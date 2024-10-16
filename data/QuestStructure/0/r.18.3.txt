@@ -17,3 +17,4 @@ StonePlantBoulder,9294,9304,1752,1762
 StoneLeafMound,9324,9331,1761,1770
 RLCraft_DecentSkeleton,9337,9337,1774,1774
 RLCraft_UndergroundRuin3,9332,9340,1772,1780
+StonePlantMound,9270,9275,1996,2001
