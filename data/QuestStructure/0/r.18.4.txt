@@ -3,3 +3,4 @@ StonePlantMound4,9272,9279,2116,2123
 RLCraft_PlainsCamp,9261,9307,2089,2128
 SmallAbandonedMine,9220,9235,2120,2145
 StonePlantMound4,9228,9235,2179,2186
+StonePlantBoulder,9332,9342,2060,2070

@@ -1,0 +1,17 @@
+DinosaurSkeleton,4860,4869,-8906,-8860
+BlazeSpawnerCrystal,4837,4843,-8858,-8852
+RLCraft_BasicSkeleton,4958,4958,-8933,-8933
+RLCraft_UndergroundRuin1,4955,4964,-8936,-8927
+RLCraft_BasicCaveSpider,4884,4884,-8811,-8811
+RLCraft_UndergroundRuin1,4878,4887,-8814,-8805
+RLCraft_SmallUndergroundSkeleton,4645,4653,-8808,-8800
+RLCraft_DecentCaveSpider,4712,4712,-8741,-8741
+RLCraft_UndergroundRuin2,4707,4714,-8746,-8736
+RLCraft_DecentSpider,4625,4625,-8891,-8891
+RLCraft_UndergroundRuin2,4620,4630,-8893,-8886
+RLCraft_DecentSpider,4643,4643,-9111,-9111
+RLCraft_UndergroundRuin2,4638,4648,-9116,-9109
+MysticalTree2,4970,4980,-8996,-8986
+DinosaurSkull,4844,4863,-9221,-9210
+DesertBeacon,5004,5010,-8802,-8796
+RLCraft_SmallUndergroundSkeleton,5040,5048,-9003,-8995

@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "forest_vilespine": "2024-10-18 21:52:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "forest_vilespine": "2024-10-18 21:52:38 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-10-18 21:52:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "roofed_forest": "2024-10-18 21:51:05 +0200",
+      "river": "2024-10-18 21:52:29 +0200"
+    },
+    "done": false
+  }
+}

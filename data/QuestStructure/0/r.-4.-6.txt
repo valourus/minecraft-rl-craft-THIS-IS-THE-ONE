@@ -1,0 +1,8 @@
+StonePlantMound1,-2156,-2150,-3468,-3462
+StonePlantMound4,-2151,-2144,-3413,-3406
+StonePlantMound2,-2201,-2188,-3391,-3379
+ForestBeacon,-2169,-2161,-3555,-3547
+StonePlantMound1,-2064,-2058,-3350,-3344
+StonePlantBoulder,-2284,-2274,-3424,-3414
+DinosaurSkull,-2195,-2184,-3291,-3272
+StoneBoulder,-2332,-2323,-3440,-3431
