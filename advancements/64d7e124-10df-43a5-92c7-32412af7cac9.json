@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-10-19 17:43:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-12 20:15:23 +0200"
@@ -396,6 +402,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-10-16 19:36:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-10-19 19:13:00 +0200"
     },
     "done": true
   },
@@ -705,6 +717,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-19 16:59:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2024-10-13 20:19:45 +0200"
@@ -873,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-10-19 19:13:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-10-13 15:20:17 +0200"
@@ -885,6 +909,7 @@
       "skeleton": "2024-10-13 15:54:04 +0200",
       "zombie": "2024-10-12 20:07:50 +0200",
       "cave_spider": "2024-10-18 21:15:31 +0200",
+      "silverfish": "2024-10-19 19:25:09 +0200",
       "spider": "2024-10-13 15:12:05 +0200"
     },
     "done": false
@@ -898,6 +923,18 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-10-13 15:17:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-19 16:21:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-10-19 17:43:29 +0200"
     },
     "done": true
   },
@@ -1603,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-19 16:21:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2024-10-12 20:45:12 +0200"
@@ -1918,6 +1961,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-10-12 20:08:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-10-19 16:21:02 +0200"
     },
     "done": true
   },
