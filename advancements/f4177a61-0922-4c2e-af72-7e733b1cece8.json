@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-10-20 14:23:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-10-13 15:11:41 +0200"
@@ -86,6 +92,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-10-12 21:03:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-10-20 14:23:55 +0200"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-13 16:56:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-10-20 14:37:54 +0200"
     },
     "done": true
   },
@@ -421,6 +439,7 @@
       "cooked_porkchop": "2024-10-16 19:44:40 +0200",
       "cooked_beef": "2024-10-13 17:37:28 +0200",
       "apple": "2024-10-13 16:40:26 +0200",
+      "melon": "2024-10-20 14:39:03 +0200",
       "bread": "2024-10-13 19:55:26 +0200",
       "cooked_chicken": "2024-10-13 17:12:28 +0200",
       "carrot": "2024-10-13 20:13:13 +0200"
@@ -448,6 +467,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-10-12 20:27:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-10-20 14:37:54 +0200"
     },
     "done": true
   },
@@ -499,6 +524,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-10-12 20:57:57 +0200"
@@ -544,6 +575,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-10-13 20:11:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-10-20 14:23:55 +0200"
     },
     "done": true
   },
@@ -658,6 +695,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-10-18 21:22:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-10-20 14:26:24 +0200"
     },
     "done": true
   },
@@ -790,6 +833,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-10-13 16:38:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-10-20 14:38:44 +0200"
     },
     "done": true
   },
@@ -951,6 +1000,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-10-13 16:37:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-10-20 14:26:24 +0200"
     },
     "done": true
   },
@@ -1119,6 +1174,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-10-12 21:03:38 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
     },
     "done": true
   },
@@ -1488,9 +1549,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-10-20 14:38:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-10-12 20:53:19 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
     },
     "done": true
   },
@@ -1527,6 +1600,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-10-13 15:31:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-10-20 14:26:24 +0200"
     },
     "done": true
   },
@@ -1674,6 +1753,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-10-18 21:09:48 +0200"
@@ -1689,6 +1774,12 @@
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2024-10-18 21:22:36 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2024-10-20 14:58:03 +0200"
     },
     "done": true
   },
@@ -1719,6 +1810,7 @@
       "deep_ocean": "2024-10-12 20:20:09 +0200",
       "beaches": "2024-10-12 20:17:14 +0200",
       "extreme_hills_with_trees": "2024-10-13 17:21:57 +0200",
+      "forest_hills": "2024-10-20 15:01:38 +0200",
       "plains": "2024-10-12 20:26:01 +0200",
       "taiga": "2024-10-12 20:26:50 +0200",
       "taiga_hills": "2024-10-13 16:06:47 +0200",
@@ -1768,6 +1860,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-10-12 20:55:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-10-20 14:38:44 +0200"
     },
     "done": true
   },
@@ -1927,6 +2025,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2024-10-14 19:55:08 +0200"
@@ -1990,6 +2094,12 @@
   "mujmajnkraftsbettersurvival:iron_battleaxe": {
     "criteria": {
       "has_iron": "2024-10-12 20:27:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-10-20 14:37:54 +0200"
     },
     "done": true
   },
@@ -2074,6 +2184,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-10-18 22:41:52 +0200"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2024-10-20 14:58:03 +0200"
     },
     "done": true
   },
